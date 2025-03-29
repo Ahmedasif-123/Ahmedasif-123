@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ahmed  
 
-🎓 **Computer Engineering Student @ HBKU** | 💻 **AI & ML Researcher** | 🔬 **Cybersecurity & Quantum Computing Enthusiast**  
+🎓 **Computer Engineering Student @ Hamad Bin Khalifa university** | 💻 **AI & ML Researcher** | 🔬 **Cybersecurity & Quantum Computing Enthusiast**  | **Python expertise**
 
 ---
 
